@@ -1,0 +1,13 @@
+.background {
+  background-color: antiquewhite;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rounded-circle {
+  width: 250px;
+  height: 250px;
+  margin-top: 80px;
+}
